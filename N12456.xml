@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015736_0000_0F9A23072D9F5628"/>
-            <pb facs="tcp:015736_0001_0F9A2307EDA1DE98"/>
+            <pb facs="unknown:015736_0000_0F9A23072D9F5628"/>
+            <pb facs="unknown:015736_0001_0F9A2307EDA1DE98"/>
             <p>A Firſt Book for CHILDREN.</p>
             <p>a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp; A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <hi>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp;</hi>
             </p>
@@ -121,7 +121,8 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:015736_0002_0F9A230A14E23100" rendition="simple:additions"/>
+            <pb facs="unknown:015736_0002_0F9A230A14E23100"
+                rendition="simple:additions"/>
             <head>a b c d e f g h i j k l m n o p q r ſ s t u v w x y z &amp; A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ct ſh ſt ff ſi fi ſl fl ſſi ffi ffl ſb ſk</head>
             <p>
                <table>
@@ -301,7 +302,7 @@
                      <cell>ux</cell>
                   </row>
                   <pb n="3"
-                      facs="tcp:015736_0003_0F9A230A2DCDC4E0"
+                      facs="unknown:015736_0003_0F9A230A2DCDC4E0"
                       rendition="simple:additions"/>
                   <row>
                      <cell>bla</cell>
@@ -574,7 +575,7 @@
                      <cell>hog</cell>
                      <cell>log</cell>
                   </row>
-                  <pb n="4" facs="tcp:015736_0004_0F9A230B06780950"/>
+                  <pb n="4" facs="unknown:015736_0004_0F9A230B06780950"/>
                   <row>
                      <cell>but</cell>
                      <cell>cut</cell>
@@ -831,7 +832,8 @@
                   </row>
                </table>
                <table>
-                  <pb facs="tcp:015736_0005_0F9A230BAD9772A0" rendition="simple:additions"/>
+                  <pb facs="unknown:015736_0005_0F9A230BAD9772A0"
+                      rendition="simple:additions"/>
                   <row>
                      <cell>
                         <gap reason="illegible: torn page" extent="1 span">
@@ -935,7 +937,7 @@
                   </row>
                </table>
                <table>
-                  <pb facs="tcp:015736_0006_0F9A230C6F427320"/>
+                  <pb facs="unknown:015736_0006_0F9A230C6F427320"/>
                   <row>
                      <cell>All</cell>
                      <cell>call</cell>
@@ -1000,7 +1002,7 @@
                      <cell>link</cell>
                      <cell>pink</cell>
                   </row>
-                  <pb n="7" facs="tcp:015736_0007_0F9A230D2E8E78E8"/>
+                  <pb n="7" facs="unknown:015736_0007_0F9A230D2E8E78E8"/>
                   <row>
                      <cell>fear</cell>
                      <cell>hear</cell>
@@ -1161,7 +1163,7 @@
                      <cell>live</cell>
                      <cell>look</cell>
                   </row>
-                  <pb n="8" facs="tcp:015736_0008_0F9A230DED9115B8"/>
+                  <pb n="8" facs="unknown:015736_0008_0F9A230DED9115B8"/>
                   <row>
                      <cell>king</cell>
                      <cell>kind</cell>
@@ -1343,7 +1345,7 @@
                   <gap reason="missing" extent="2 pages">
                      <desc>〈2 pages missing〉</desc>
                   </gap>
-                  <pb n="11" facs="tcp:015736_0009_0F9A230EAD8B4D40"/>
+                  <pb n="11" facs="unknown:015736_0009_0F9A230EAD8B4D40"/>
                   <row>
                      <cell>Ad-am</cell>
                      <cell>Cam-el</cell>
@@ -1480,7 +1482,7 @@
                      <cell>har-veſt</cell>
                      <cell>maſ-ter</cell>
                   </row>
-                  <pb n="12" facs="tcp:015736_0010_0F9A230F6D97A568"/>
+                  <pb n="12" facs="unknown:015736_0010_0F9A230F6D97A568"/>
                   <row>
                      <cell>mat-ter</cell>
                      <cell>ſil-ver</cell>
@@ -1613,7 +1615,7 @@
                      <cell>yon-der</cell>
                      <cell>wonder</cell>
                   </row>
-                  <pb n="13" facs="tcp:015736_0011_0F9A2311A0C75798"/>
+                  <pb n="13" facs="unknown:015736_0011_0F9A2311A0C75798"/>
                   <row>
                      <cell>Beaſt</cell>
                      <cell>climb</cell>
@@ -1746,7 +1748,7 @@
                      <cell>know</cell>
                      <cell>print</cell>
                   </row>
-                  <pb n="14" facs="tcp:015736_0012_0F9A2311AD9138E0"/>
+                  <pb n="14" facs="unknown:015736_0012_0F9A2311AD9138E0"/>
                   <row>
                      <cell>proud</cell>
                      <cell>ſhock</cell>
@@ -1876,7 +1878,7 @@
                   <gap reason="missing" extent="4 pages">
                      <desc>〈4 pages missing〉</desc>
                   </gap>
-                  <pb n="19" facs="tcp:015736_0013_0F9A2312779FF998"/>
+                  <pb n="19" facs="unknown:015736_0013_0F9A2312779FF998"/>
                   <row>
                      <cell>Ad-der</cell>
                      <cell>cuſ-tom</cell>
@@ -2014,7 +2016,7 @@
                      <cell>hea-then</cell>
                      <cell>juſtice</cell>
                   </row>
-                  <pb n="20" facs="tcp:015736_0014_0F9A23132DA1A7E8"/>
+                  <pb n="20" facs="unknown:015736_0014_0F9A23132DA1A7E8"/>
                   <row>
                      <cell>man-kind</cell>
                      <cell>proſ-per</cell>
@@ -2152,7 +2154,7 @@
                      <cell>tem-per</cell>
                      <cell>Zeal-ous</cell>
                   </row>
-                  <pb n="21" facs="tcp:015736_0015_0F9A2313ED922728"/>
+                  <pb n="21" facs="unknown:015736_0015_0F9A2313ED922728"/>
                   <row>
                      <cell>Al-low</cell>
                      <cell>diſ-treſs</cell>
@@ -2292,7 +2294,7 @@
             </p>
             <p>
                <pb n="22"
-                   facs="tcp:015736_0016_0F9A2314AD8C00F0"
+                   facs="unknown:015736_0016_0F9A2314AD8C00F0"
                    rendition="simple:additions"/>
 Man was at firſt made in a ſtate of bliſs; but by ſin he fell from that good ſtate into a ſtate of Woe and miſery</p>
             <p>Chriſt our bleſſed Lord came down from heaven, to ſave man from ſin, and to give life to the ſoul; a life that will never end.</p>
@@ -2304,7 +2306,7 @@ Man was at firſt made in a ſtate of bliſs; but by ſin he fell from that good
             <p>Thus died the ſon of God, our Lord Jeſus Chriſt, in order to ſave mankind!</p>
             <p>
                <pb n="23"
-                   facs="tcp:015736_0017_0F9A23156D6E43A8"
+                   facs="unknown:015736_0017_0F9A23156D6E43A8"
                    rendition="simple:additions"/>
 His body was laid in the grave: For our ſake, he paſſed thro' the valley of death, that we might live and become heirs of heaven and children of God,</p>
             <p>And all this was done, as it had been ſpo<g ref="char:EOLhyphen"/>ken, of the Lord, by the prophet.</p>
@@ -2315,7 +2317,7 @@ His body was laid in the grave: For our ſake, he paſſed thro' the valley of d
             <p>And the child Jeſus grew, and became ſtrong in ſpirit; filled with wiſdom and the grace of God was upon him.</p>
             <p>
                <pb n="24"
-                   facs="tcp:015736_0018_0F9A234CEF5BA840"
+                   facs="unknown:015736_0018_0F9A234CEF5BA840"
                    rendition="simple:additions"/>
 And when he was twelve years old, he went up with his parents to the feaſt, after the cu<g ref="char:EOLhyphen"/>ſtom of the Jews:</p>
             <p>And when the days of the feaſt were over, the people went home, but the child Jeſus was ſtill in the city, and his parents knew it not.</p>
@@ -2327,7 +2329,7 @@ And when he was twelve years old, he went up with his parents to the feaſt, aft
             <p>How is it that ye ſought me, knew ye not, that I muſt perform the work that my father ſent me to do?</p>
             <p>
                <pb n="25"
-                   facs="tcp:015736_0019_0F9A234DAD8E0878"
+                   facs="unknown:015736_0019_0F9A234DAD8E0878"
                    rendition="simple:additions"/>
 Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.</p>
             <p>In thoſe days came John the Baptiſt, preach<g ref="char:EOLhyphen"/>ing in the deſert, ſaying, repent ye, for the kingdom of heaven is at hand.</p>
@@ -2337,7 +2339,7 @@ Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.
             <p>Whoſe fan is in his hand, and he will ga<g ref="char:EOLhyphen"/>ther the wheat into his garner; but the chaff he will burn with fire.</p>
             <p>Now Jeſus began to preach, and to do many wonders; healing the ſick, the lame and the blind.</p>
             <p>
-               <pb n="26" facs="tcp:015736_0020_0F9A234E6DAA00A0"/>
+               <pb n="26" facs="unknown:015736_0020_0F9A234E6DAA00A0"/>
                <table>
                   <row>
                      <cell>Ac-ti-on</cell>
@@ -2449,7 +2451,7 @@ Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.
                      <cell>mi-niſ-ter</cell>
                      <cell>miniſter</cell>
                   </row>
-                  <pb n="27" facs="tcp:015736_0021_0F9A234F2ED31F20"/>
+                  <pb n="27" facs="unknown:015736_0021_0F9A234F2ED31F20"/>
                   <row>
                      <cell>mo-nu-ment</cell>
                      <cell>Sa-vi-our</cell>
@@ -2560,7 +2562,7 @@ Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.
                      <cell>yeſ-ter-day</cell>
                      <cell>wonderful</cell>
                   </row>
-                  <pb n="28" facs="tcp:015736_0022_0F9A234FEE4A8660"/>
+                  <pb n="28" facs="unknown:015736_0022_0F9A234FEE4A8660"/>
                   <row>
                      <cell>Bleach</cell>
                      <cell>growth</cell>
@@ -2674,7 +2676,7 @@ Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.
                </table>
             </p>
             <p>
-               <pb n="29" facs="tcp:015736_0023_0F9A2350B0C6B990"/>
+               <pb n="29" facs="unknown:015736_0023_0F9A2350B0C6B990"/>
                <hi>Matt.</hi> 25, 31. When the Son of man ſhall come in his glory and all the holy angels with him, then ſhall he ſit upon the throne of his glory;</p>
             <p>And before him ſhall be gathered all nations; and he ſhall ſeparate them one from another, as a ſhepherd divideth his ſheep from the goats: And he ſhall ſet the ſheep on his right hand, but the goats on his left.</p>
             <p>Then ſhall the King ſay unto them on his right hand, Come, ye bleſſed of my father, inherit the kingdom prepared for you, from the foundation of the world; for I was an hungred, and ye gave me meat; I was thirſty, and ye gave me drink; I was a ſtranger, and ye took me in; naked, and ye clothed me; I was ſick and ye viſited me; I was in priſon, and ye came unto me.</p>
@@ -2682,7 +2684,7 @@ Then he went down with Joſeph and his mother, Mary, and was ſubject unto them.
             <p>When ſaw we thee a ſtranger, and took thee in? or naked, and clothed thee? or when ſaw we thee ſick, or in priſon, and came unto thee?</p>
             <p>
                <pb n="30"
-                   facs="tcp:015736_0024_0F9A23516D9C9AF0"
+                   facs="unknown:015736_0024_0F9A23516D9C9AF0"
                    rendition="simple:additions"/>
 And the king ſhall anſwer and ſay unto them. Verily I ſay unto you, in as much as ye have done it unto one of the leaſt of theſe my brethren, ye have done it unto me.</p>
             <p>Then ſhall he ſay alſo unto them on the left hand. Depart from me, ye curſed into everlaſt<g ref="char:EOLhyphen"/>ing ſire prepared for the devil and his angels; for I was an hungred, and ye gave me no drink: I was a ſtranger, and ye took me not in; naked, and ye clothed me not; ſick, and in priſon, and ye viſited me not.</p>
@@ -2691,7 +2693,7 @@ And the king ſhall anſwer and ſay unto them. Verily I ſay unto you, in as mu
                </gap>red, or a thirſt or a ſtranger, or naked, or ſick, or in priſon, and did not miniſter unto thee?</p>
             <p>Then ſhall he anſwer them, ſaying, Verily I ſay unto you, In as much as ye did it not to one of the leaſt of theſe, ye did it not to me. And theſe ſhall go away into everlaſting pu<g ref="char:EOLhyphen"/>niſhment; but the righteous into life eternal.</p>
             <div type="poem">
-               <pb n="31" facs="tcp:015736_0025_0F9A235392859F78"/>
+               <pb n="31" facs="unknown:015736_0025_0F9A235392859F78"/>
                <head>The Danger of delaying Repentance.</head>
                <lg>
                   <l>Why ſhould I ſay 'tis yet too ſoon,</l>
@@ -2724,7 +2726,7 @@ And the king ſhall anſwer and ſay unto them. Verily I ſay unto you, in as mu
                   <l>Or hope to ſee my maker's face.</l>
                </lg>
                <lg>
-                  <pb n="32" facs="tcp:015736_0026_0F9A2353AD87A3C0"/>
+                  <pb n="32" facs="unknown:015736_0026_0F9A2353AD87A3C0"/>
                   <l>There's not a ſin that we commit,</l>
                   <l>Nor wicked word we ſay,</l>
                   <l>But in God's dreadful book 'tis writ,</l>
